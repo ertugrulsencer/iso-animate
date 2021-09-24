@@ -1,0 +1,19 @@
+{
+  "name": "iso_animate",
+  "version": "1.0.0",
+  "description": "Animasyonlu scroll",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass scss/main.scss:css/iso.animate.min.css --style compressed --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ertugrulsencer/iso-animate.git"
+  },
+  "author": "Ertuğrul Sencer UZUN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ertugrulsencer/iso-animate/issues"
+  },
+  "homepage": "https://github.com/ertugrulsencer/iso-animate#readme"
+}
