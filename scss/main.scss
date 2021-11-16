@@ -38,4 +38,5 @@
       transform: translate(0);
     }
   }
+  transition-delay: var(--delay, 0ms) !important;
 }
